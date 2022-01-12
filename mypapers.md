@@ -180,6 +180,11 @@ https://www.uvsq.fr/obfuscation-par-expressions-mixtes-arithmetico-booleennes-re
 Program Synthesis in Reverse Engineering
 https://www.msreverseengineering.com/blog/2014/12/12/program-synthesis-in-reverse-engineering
 
+## links
+
+msynth
+https://github.com/mrphrazer/msynth
+
 # Deobfuscation: Virtualization-based Obfuscation
 
 LOKI : Hardening Code Obfuscation Against Automated Attacks
