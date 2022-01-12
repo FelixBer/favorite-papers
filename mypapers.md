@@ -37,10 +37,8 @@ https://ieeexplore.ieee.org/document/7546501
 Sound C Code Decompilation for a subset of x86-64 Binaries
 https://www.ssrg.ece.vt.edu/papers/sefm20.pdf
 
-
 Design of an Automatically Generated Retargetable Decompiler
 http://www.wseas.us/e-library/conferences/2011/Tenerife/CSCC/CSCC-31.pdf
-
 
 A Novel Disassemble Algorithm Designed for Malicious File
 https://pdfs.semanticscholar.org/05c7/b200551dcc0f03d58b577e7165fbd86d5218.pdf
@@ -177,7 +175,6 @@ https://triton.quarkslab.com/files/DIMVA2018-deobfuscation-salwan-bardin-potet.p
 VMHunt: A Verifiable Approach to Partially-Virtualized Binary Code Simplification
 https://dl.acm.org/doi/10.1145/3243734.3243827
 
-
 Replacement Attacks Against VM-protected Applications (process level)
 https://www.cl.cam.ac.uk/research/srg/netos/vee_2012/papers/p203.pdf
 
@@ -189,6 +186,8 @@ https://ieeexplore.ieee.org/document/6746443
 https://github.com/JeremyWildsmith/x86devirt
 
 https://github.com/malrev/ABD
+
+https://github.com/vtil-project
 
 Playing with Binary Analysis - Deobfuscation of VM based software protection
 http://shell-storm.org/talks/SSTIC2017_Deobfuscation_of_VM_based_software_protection.pdf
