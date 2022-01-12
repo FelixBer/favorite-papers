@@ -1,0 +1,311 @@
+
+
+
+# Assembly
+
+SoK: All You Ever Wanted to Know About x86/x64 Binary Disassembly But Were Afraid to Ask
+https://arxiv.org/abs/2007.14266
+
+mov is Turing-complete
+https://drwho.virtadpt.net/files/mov.pdf
+
+
+Detecting Code Clones in Binary Executables 
+https://dl.acm.org/doi/10.1145/1572272.1572287
+
+# Compiler theory
+
+Practical Dynamic Reconstruction of Control Flow Graphs
+https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2907
+
+Binary Recompilation via Dynamic Analysis and the Protection of Control and Data-flows therein
+https://escholarship.org/uc/item/4gd0b9ht
+
+How to write a basic control flow decompiler 
+https://github.com/zeroKilo/DirectedGraphsWV/blob/master/How%20to%20write%20a%20basic%20control%20flow%20decompiler.pdf
+
+Notes on Graph Algorithms Used in Optimizing Compilers
+https://www.cs.umb.edu/~offner/files/flow_graph.pdf
+
+On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits
+https://osarena.net/files/open-source-insecurity.pdf
+
+Native x86 Decompilation Using Semantics-Preserving Structural Analysis and Iterative Control-Flow Structuring
+https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/schwartz
+
+Sound C Code Decompilation for a subset of x86-64 Binaries
+https://www.ssrg.ece.vt.edu/papers/sefm20.pdf
+
+Type Inference on Executables
+https://dl.acm.org/doi/10.1145/2896499
+
+Type Analysis of Low-level Code
+https://github.com/decomp/decomp
+
+Efficient Features for Function Matching between Binary Executables
+https://ieeexplore.ieee.org/document/8330221
+
+Testing Intermediate Representations for Binary Analysis
+https://ieeexplore.ieee.org/document/8115648
+
+## Links
+
+Breaking Down Binary Ninja’s Low Level IL
+https://blog.trailofbits.com/2017/01/31/breaking-down-binary-ninjas-low-level-il/
+
+# Deobfuscation
+
+Dynamic Binary Instrumentation Techniques to Address
+Native Code Obfuscation
+https://www.blackhat.com/asia-20/briefings/schedule/#dynamic-binary-instrumentation-techniques-to-address-native-code-obfuscation-18309
+https://www.youtube.com/watch?v=MRku-2fW42w
+
+Reasoning about Software Security via
+Synthesized Behavioral Substitutes
+https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/docId/7580
+
+MBA-Blast: Unveiling and Simplifying
+Mixed Boolean-Arithmetic Obfuscation
+https://www.usenix.org/conference/usenixsecurity21/presentation/liu-binbin
+
+
+Code deobfuscation by program
+synthesis-aided simplification of
+Mixed Boolean-Arithmetic
+expressions
+http://diposit.ub.edu/dspace/handle/2445/176925
+
+QSynth - A Program Synthesis based Approach for
+Binary Code Deobfuscation
+https://www.researchgate.net/publication/340439921_QSynth_-_A_Program_Synthesis_based_approach_for_Binary_Code_Deobfuscation
+
+On Symbolic Execution of Decompiled Programs
+https://ieeexplore.ieee.org/document/9282790
+
+How to Kill Symbolic Deobfuscation for Free
+https://arxiv.org/abs/1908.01549
+
+A Tutorial on Software Obfuscation
+https://mediatum.ub.tum.de/doc/1367533/file.pdf
+
+
+(!) x64Unpack: Hybrid Emulation Unpacker for
+64-bit Windows Environments and Detailed Analysis Results on VMProtect 3.4
+https://ieeexplore.ieee.org/document/9139515
+
+PyPANDA: Taming the PANDAmonium of Whole System Dynamic Analysis
+https://www.ndss-symposium.org/ndss-paper/auto-draft-152/
+
+LOKI : Hardening Code Obfuscation Against Automated Attacks
+https://arxiv.org/abs/2106.08913
+
+Automatic Deobfuscation and Reverse Engineering of Obfuscated Code
+https://repository.arizona.edu/bitstream/handle/10150/613135/azu_etd_14572_sip1_m.pdf?sequence=1
+
+Obfuscation with MBA Expression: Reconstruction, Analyse and Simplification
+https://www.uvsq.fr/obfuscation-par-expressions-mixtes-arithmetico-booleennes-reconstruction-analyse-et-outils-de-simplification-par-madame-ninon-eyrolles
+
+VMAttack: Deobfuscating Virtualization-Based Packed Binaries
+https://dl.acm.org/doi/10.1145/3098954.3098995
+
+Practical Symbolic Execution and SATisfiability Module Theories (SMT) 101
+https://www.gushiciku.cn/pl/2n7j/zh-tw
+
+Behavioral Analysis of Obfuscated Code
+https://essay.utwente.nl/67522/1/Scrinzi_MA_SCS.pdf
+https://www.youtube.com/watch?v=aYQ4TIcGD2o
+
+SAT & SMT by Example
+https://sat-smt.codes/
+
+(Reven:) Updated Analysis of PatchGuard on Microsoft Windows 10 RS4
+https://blog.tetrane.com/downloads/Tetrane_PatchGuard_Analysis_RS4_v1.01.pdf
+
+Deobfuscation of Virtualization-obfuscated Code through Symbolic Execution and Compilation Optimization
+https://www.semanticscholar.org/paper/Deobfuscation-of-Virtualization-Obfuscated-Code-and-Liang-Li/cd18e252790985c9ae065cbdd0fb08a9ba1a4578
+
+Introduction to Modern Code Virtualization by Nooby
+https://forum.tuts4you.com/files/file/1935-introduction-to-modern-code-virtualization/
+
+Seeing through obfuscation: interactive detection and removal of opaque predicates
+https://th0mas.nl/downloads/thesis/thesis.pdf
+
+Symbolic deobfuscation: from virtualized code back to the original
+https://triton.quarkslab.com/files/DIMVA2018-deobfuscation-salwan-bardin-potet.pdf
+
+VMHunt: A Verifiable Approach to Partially-Virtualized Binary Code Simplification
+https://dl.acm.org/doi/10.1145/3243734.3243827
+
+## links
+
+https://github.com/JeremyWildsmith/x86devirt
+
+https://github.com/malrev/ABD
+
+Playing with Binary Analysis - Deobfuscation of VM based software protection
+http://shell-storm.org/talks/SSTIC2017_Deobfuscation_of_VM_based_software_protection.pdf
+
+Advanced Binary Deobfuscation
+The Art of De-obfuscation
+https://ntddk.github.io/
+
+modern malware threat: HANDLING OBFUSCATED CODE
+http://www.blackstormsecurity.com/CONFIDENCE_2019_ALEXANDRE.pdf
+
+Program Synthesis in Reverse Engineering
+https://www.msreverseengineering.com/blog/2014/12/12/program-synthesis-in-reverse-engineering
+
+Dynamic Binary Instrumentation Primer
+http://blog.deniable.org/posts/binary-instrumentation/
+
+# Bug finding / Exploitation
+
+Sys: a Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code
+https://www.usenix.org/conference/usenixsecurity20/presentation/brown
+
+Hiding in the Particles: When Return-Oriented
+Programming Meets Program Obfuscation
+https://arxiv.org/abs/2012.06658
+
+Automatic Heap Layout Manipulation for Exploitation
+https://www.usenix.org/conference/usenixsecurity18/presentation/heelan
+
+Detecting Kernel Memory Disclosure with x86
+Emulation and Taint Tracking
+https://j00ru.vexillium.org/papers/2018/bochspwn_reloaded.pdf
+
+Precise and Scalable Detection of
+Double-Fetch Bugs in OS Kernels
+https://ieeexplore.ieee.org/document/8418630
+
+T-Fuzz: fuzzing by program transformation
+https://ieeexplore.ieee.org/document/8418632
+
+Tracing Privileged Memory Accesses to Discover Software Vulnerabilities
+https://os.itec.kit.edu/downloads/ma_2015_wilhelm_felix__discover_software_vulnerabilities.pdf
+
+# Fuzzing
+
+HYPER-CUBE : High-Dimensional Hypervisor Fuzzing
+https://www.semanticscholar.org/paper/HYPER-CUBE%3A-High-Dimensional-Hypervisor-Fuzzing-Schumilo-Aschermann/4e490b9e04c1b9db27582f0eb672611ed61a22b0
+https://www.youtube.com/watch?v=GmIlLKT_nH8
+
+NYX : Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types
+https://www.usenix.org/conference/usenixsecurity21/presentation/schumilo
+
+# RCE other
+
+Datalog Disassembly
+https://www.usenix.org/conference/usenixsecurity20/presentation/flores-montoya
+
+Towards Optimal Use of Exception Handling Information for Function Detection
+https://arxiv.org/abs/2104.03168
+
+Neural Reverse Engineering of Stripped Binaries using Augmented Control Flow Graphs
+https://dl.acm.org/doi/10.1145/3428293
+
+Weird machines, exploitability, and provable unexploitability
+https://ieeexplore.ieee.org/document/8226852
+
+Everything Old is New Again: Binary Security of WebAssembly
+https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann
+
+Remote Exploitation of an Unaltered Passenger Vehicle
+http://illmatics.com/Remote%20Car%20Hacking.pdf
+
+Learning to Find Usages of Library Functions in Optimized Binaries
+https://ieeexplore.ieee.org/abstract/document/9520296
+
+Reverse Engineering of Intel Microcode Update Structure
+https://ieeexplore.ieee.org/document/9197630
+
+B2R2: Building an Efficient Front-End for Binary Analysis
+https://www.ndss-symposium.org/ndss-paper/auto-draft-33/
+
+An Exploratory Analysis of Microcode as a Building Block for System Defenses
+https://arxiv.org/abs/2007.03549
+
+Reverse code engineering of .NET applications
+https://erepo.uef.fi/handle/123456789/12702
+
+Reverse Engineering WebAssembly
+https://www.pnfsoftware.com/reversing-wasm.pdf
+
+Statistical Reconstruction of Class Hierarchies in Binaries
+https://dl.acm.org/doi/10.1145/3173162.3173202
+
+A Survey of Symbolic Execution Techniques
+https://dl.acm.org/doi/10.1145/3182657
+
+# Hardware
+
+THE FAKE CISCO Hunting for backdoors in Counterfeit Cisco devices
+https://labs.f-secure.com/assets/BlogFiles/2020-07-the-fake-cisco.pdf
+
+One Exploit to Rule them All? On the Security of Drop-in Replacement and Counterfeit Microcontrollers
+https://www.usenix.org/system/files/woot20-paper-obermaier.pdf
+
+
+# Syria
+
+Americas Global Retreat and the Ensuing Strategic Vacuum
+https://newlinesinstitute.org/regional-politics/americas-global-retreat-and-the-ensuing-strategic-vacuum/
+
+Hezbollah Finance in Lebanon: A Primary-Source Review
+https://www.fdd.org/analysis/2020/09/23/hezbollah-finance-in-lebanon/
+
+The al-Mawla Files
+https://theglobalcoalition.org/en/the-al-mawla-files-analysis-from-the-global-coalition/
+
+Festering Grievances and the Return to Arms in Southern Syria
+https://cadmus.eui.eu/handle/1814/66786
+
+How Global Jihad Relocalises and Where it Leads. The Case of HTS, the Former AQ Franchise in Syria
+https://cadmus.eui.eu/handle/1814/69795
+
+Syria at the Center of Power Competition and Counterterrorism
+https://www.washingtoninstitute.org/policy-analysis/syria-center-power-competition-and-counterterrorism
+
+Attaque chimique du 7 avril 2018 (Douma, Ghouta orientale, Syrie) Programme chimique syrien clandestin
+https://ru.ambafrance.org/Evaluation-nationale-Attaque-chimique-du-7-avril-2018-Douma-Ghouta-orientale
+
+From Rebel Rule to a Post-Capitulation Era in Daraa Southern Syria: The Impacts and Outcomes of Rebel Behaviour During Negotiations
+https://cadmus.eui.eu/handle/1814/60664
+
+Nowhere to Hide The Logic of Chemical Weapons Use in Syria
+https://www.gppi.net/media/GPPi_Schneider_Luetkefend_2019_Nowhere_to_Hide_Web.pdf
+
+Islamic State recoilless launcher systems
+https://www.conflictarm.com/technical/islamic-state-recoilless-launcher-systems/
+
+Lebanese Hezbollahs Experience in Syria
+https://cadmus.eui.eu/handle/1814/66546
+
+Idlib and Its Environs
+https://www.washingtoninstitute.org/policy-analysis/idlib-and-its-environs-narrowing-prospects-rebel-holdout
+
+A TALE OF SIX TRIBES Securing the Middle Euphrates River Valley
+https://www.washingtoninstitute.org/policy-analysis/tale-six-tribes-securing-middle-euphrates-river-valley
+
+# Other
+
+Adaptive Flight Control With Living Neuronal Networks on Microelectrode Arrays
+https://ieeexplore.ieee.org/document/1556108
+
+ILK-Stellungnahme zur Wiederaufarbeitung abgebrannter Brennelemente
+https://www.stmuv.bayern.de/themen/reaktorsicherheit/ilk/doc/07.pdf
+
+Transformation von elektrischer Energie in Wasserstoff und dessen Speicherung
+https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3285215
+
+Leaking Information Through Cache LRU States
+https://arxiv.org/abs/1905.08348
+
+Factoring 2 048 RSA integers in 177 days with 13 436 qubits and a multimode memory
+https://arxiv.org/abs/2103.06159
+
+Pig Chimeric Model with Human Pluripotent Stem Cells
+https://pubmed.ncbi.nlm.nih.gov/31175649/
+
+Cure53 Browser Security White Paper
+https://github.com/cure53/browser-sec-whitepaper
