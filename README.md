@@ -108,6 +108,8 @@ https://www.youtube.com/watch?v=MRku-2fW42w
 
 [Enabling Sophisticated Analyses of x86 Binaries with RevGen](https://dslab.epfl.ch/pubs/revgen.pdf)
 
+[Search-based Approaches for Local Blackbox Deobfuscation Understand, Improve and Mitigate](https://rbonichon.github.io/papers/xyntia-ccs21.pdf)
+
 # Deobfuscation: MBA Synt
 
 [Reasoning about Software Security via Synthesized Behavioral Substitutes](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/docId/7580)
@@ -126,9 +128,14 @@ https://www.youtube.com/watch?v=MRku-2fW42w
 
 [Program Synthesis in Reverse Engineering](https://www.msreverseengineering.com/blog/2014/12/12/program-synthesis-in-reverse-engineering)
 
+[Greybox Program Synthesis](https://www.blackhat.com/us-21/briefings/schedule/index.html#greybox-program-synthesis-a-new-approach-to-attack-dataflow-obfuscation-22930)
+
 ## links
 
 [msynth](https://github.com/mrphrazer/msynth)
+
+[qsynth](https://github.com/quarkslab/qsynthesis/)
+
 
 # Deobfuscation: Virtualization-based Obfuscation
 
