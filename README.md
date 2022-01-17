@@ -128,7 +128,9 @@ https://www.youtube.com/watch?v=MRku-2fW42w
 
 [Program Synthesis in Reverse Engineering](https://www.msreverseengineering.com/blog/2014/12/12/program-synthesis-in-reverse-engineering)
 
-[Greybox Program Synthesis](https://www.blackhat.com/us-21/briefings/schedule/index.html#greybox-program-synthesis-a-new-approach-to-attack-dataflow-obfuscation-22930)
+[(!)Greybox Program Synthesis](https://www.blackhat.com/us-21/briefings/schedule/index.html#greybox-program-synthesis-a-new-approach-to-attack-dataflow-obfuscation-22930)
+
+
 
 ## links
 
@@ -161,6 +163,8 @@ https://www.youtube.com/watch?v=aYQ4TIcGD2o
 [NISLVMP: Improved Virtual Machine-Based Software Protection](https://ieeexplore.ieee.org/document/6746443)
 
 [Replacement Attacks Against VM-protected Applications (process level)](https://www.cl.cam.ac.uk/research/srg/netos/vee_2012/papers/p203.pdf)
+
+[Search-based Approaches for Local Blackbox Deobfuscation Understand, Improve and Mitigate]()
 
 ## links
 
@@ -198,6 +202,8 @@ https://github.com/malrev/ABD
 [ASLR Smack & Laugh Reference](https://rbonichon.github.io/asi36/papers/aslr.pdf)
 
 [Static detection of C++ vtable escape vulnerabilities in binary code](https://www.ndss-symposium.org/wp-content/uploads/2017/09/14_2.pdf)
+
+[FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware](https://raw.githubusercontent.com/FirmWire/FirmWire/main/firmwire-ndss22.pdf)
 
 
 # Fuzzing
