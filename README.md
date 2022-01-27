@@ -294,3 +294,5 @@ https://www.youtube.com/watch?v=GmIlLKT_nH8
 [Cure53 Browser Security White Paper](https://github.com/cure53/browser-sec-whitepaper)
 
 [On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits](https://osarena.net/files/open-source-insecurity.pdf)
+
+[In vitro neurons learn and exhibit sentience when embodied in a simulated game-world](https://www.biorxiv.org/content/10.1101/2021.12.02.471005v2.full.pdf)
