@@ -71,6 +71,8 @@ A nonexhaustive list of my favorite papers, have fun!
 
 [Design of a Retargetable Decompiler for a Static Platform-Independent Malware Analysis](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=C770B1AF10C1856EA952EB08F7E5186A?doi=10.1.1.455.5019&rep=rep1&type=pdf)
 
+[DIRTY: Augmenting Decompiler Output with Learned Variable Names and Types](https://github.com/CMUSTRUDEL/DIRTY#common-issues)
+
 ## Links
 
 [Breaking Down Binary Ninjas Low Level IL](https://blog.trailofbits.com/2017/01/31/breaking-down-binary-ninjas-low-level-il/)
@@ -234,6 +236,9 @@ https://www.youtube.com/watch?v=GmIlLKT_nH8
 
 [Reverse code engineering of .NET applications](https://erepo.uef.fi/handle/123456789/12702)
 
+[Exploring Widevine for Fun and Profit](https://arxiv.org/abs/2204.09298)
+
+[Android: deep dive inside anti-reverse & universal bypass with Frida](https://raw.githubusercontent.com/FrenchYeti/unrasp/main/Slides/Forging_golden_hammer_against_android_app_protections_INSO22_FINAL.pdf)
 
 
 # Hardware
