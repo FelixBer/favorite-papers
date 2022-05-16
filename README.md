@@ -73,6 +73,9 @@ A nonexhaustive list of my favorite papers, have fun!
 
 [DIRTY: Augmenting Decompiler Output with Learned Variable Names and Types](https://github.com/CMUSTRUDEL/DIRTY#common-issues)
 
+
+[dewolf: Improving Decompilation by leveraging User Surveys](https://arxiv.org/abs/2205.06719) -- [github](https://github.com/fkie-cad/dewolf)
+
 ## Links
 
 [Breaking Down Binary Ninjas Low Level IL](https://blog.trailofbits.com/2017/01/31/breaking-down-binary-ninjas-low-level-il/)
