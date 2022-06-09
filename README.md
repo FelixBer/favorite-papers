@@ -304,3 +304,7 @@ https://www.youtube.com/watch?v=GmIlLKT_nH8
 [On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits](https://osarena.net/files/open-source-insecurity.pdf)
 
 [In vitro neurons learn and exhibit sentience when embodied in a simulated game-world](https://www.biorxiv.org/content/10.1101/2021.12.02.471005v2.full.pdf)
+
+[Biofortified tomatoes provide a new route to vitamin D sufficiency](https://www.nature.com/articles/s41477-022-01154-6)
+
+[Diploid hepatocytes drive physiological liver renewal in adult humans](https://www.cell.com/cell-systems/fulltext/S2405-4712(22)00171-5)
