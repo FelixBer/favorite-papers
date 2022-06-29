@@ -90,6 +90,8 @@ A nonexhaustive list of my favorite papers, have fun!
 
 [(!) x64Unpack: Hybrid Emulation Unpacker for 64-bit Windows Environments and Detailed Analysis Results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515)
 
+[Slides: The Next Generation of Virtualization-based Obfuscators](https://synthesis.to/presentations/recon22_next_gen.pdf)
+
 # Deobfuscation: Tracing & Symex
 
 [Dynamic Binary Instrumentation Techniques to Address Native Code Obfuscation](https://www.blackhat.com/asia-20/briefings/schedule/#dynamic-binary-instrumentation-techniques-to-address-native-code-obfuscation-18309)
@@ -308,3 +310,7 @@ https://www.youtube.com/watch?v=GmIlLKT_nH8
 [Biofortified tomatoes provide a new route to vitamin D sufficiency](https://www.nature.com/articles/s41477-022-01154-6)
 
 [Diploid hepatocytes drive physiological liver renewal in adult humans](https://www.cell.com/cell-systems/fulltext/S2405-4712(22)00171-5)
+
+[Cerebral organoids at the air liquid interface generate diverse nerve tracts with functional output](https://www.readcube.com/articles/10.1038/s41593-019-0350-2)
+
+[Mapping information-rich genotype-phenotype landscapes with genome-scale Perturb-seq](https://www.cell.com/cell/fulltext/S0092-8674(22)00597-9)
