@@ -122,7 +122,6 @@ https://www.youtube.com/watch?v=MRku-2fW42w
 
 [Enabling Sophisticated Analyses of x86 Binaries with RevGen](https://dslab.epfl.ch/pubs/revgen.pdf)
 
-[Search-based Approaches for Local Blackbox Deobfuscation Understand, Improve and Mitigate](https://rbonichon.github.io/papers/xyntia-ccs21.pdf)
 
 # Deobfuscation: MBA Synt
 
@@ -144,7 +143,9 @@ https://www.youtube.com/watch?v=MRku-2fW42w
 
 [(!)Greybox Program Synthesis](https://www.blackhat.com/us-21/briefings/schedule/index.html#greybox-program-synthesis-a-new-approach-to-attack-dataflow-obfuscation-22930)
 
+[(!)(Xyntia)Search-based Approaches for Local Blackbox Deobfuscation Understand, Improve and Mitigate](https://rbonichon.github.io/papers/xyntia-ccs21.pdf)
 
+[AI-based Blackbox Code Deobfuscation Understand, Improve and Mitigate](https://www.researchgate.net/publication/349159396_AI-based_Blackbox_Code_Deobfuscation_Understand_Improve_and_Mitigate)
 
 ## links
 
@@ -178,7 +179,6 @@ https://www.youtube.com/watch?v=aYQ4TIcGD2o
 
 [Replacement Attacks Against VM-protected Applications (process level)](https://www.cl.cam.ac.uk/research/srg/netos/vee_2012/papers/p203.pdf)
 
-[Search-based Approaches for Local Blackbox Deobfuscation Understand, Improve and Mitigate]()
 
 ## links
 
