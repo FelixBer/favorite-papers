@@ -321,3 +321,5 @@ https://www.youtube.com/watch?v=GmIlLKT_nH8
 [Cerebral organoids at the air liquid interface generate diverse nerve tracts with functional output](https://www.readcube.com/articles/10.1038/s41593-019-0350-2)
 
 [Mapping information-rich genotype-phenotype landscapes with genome-scale Perturb-seq](https://www.cell.com/cell/fulltext/S0092-8674(22)00597-9)
+
+[Post-gastrulation synthetic embryos generated exutero from mouse naive ESC](https://www.cell.com/action/showPdf?pii=S0092-8674%2822%2900981-3)
