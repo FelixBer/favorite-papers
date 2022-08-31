@@ -47,6 +47,9 @@ A nonexhaustive list of my favorite papers, have fun!
 [Dynamically Translating x86 to LLVM using QEMU](https://infoscience.epfl.ch/record/149975/files/x86-llvm-translator-chipounov_2.pdf)
 
 
+[MENTALESE - An Architecture-Agnostic Analysis Framework for Binary Executables](https://d-nb.info/123423694X/34)
+
+
 # Decompilation
 
 [Practical Dynamic Reconstruction of Control Flow Graphs](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2907)
@@ -75,6 +78,10 @@ A nonexhaustive list of my favorite papers, have fun!
 
 
 [dewolf: Improving Decompilation by leveraging User Surveys](https://arxiv.org/abs/2205.06719) -- [github](https://github.com/fkie-cad/dewolf)
+
+[Decomperson: How Humans Decompile and What We Can Learn From It](https://www.usenix.org/system/files/sec22-burk.pdf)
+
+[Augmenting Decompiler Output with Learned Variable Names and Types](https://www.usenix.org/system/files/sec22-chen-qibin.pdf)
 
 ## Links
 
