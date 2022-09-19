@@ -147,11 +147,15 @@ https://www.youtube.com/watch?v=MRku-2fW42w
 
 [AI-based Blackbox Code Deobfuscation Understand, Improve and Mitigate](https://www.researchgate.net/publication/349159396_AI-based_Blackbox_Code_Deobfuscation_Understand_Improve_and_Mitigate)
 
+[Efficient Deobfuscation of Linear Mixed Boolean-Arithmetic Expressions](https://arxiv.org/pdf/2209.06335.pdf)
+
 ## links
 
 [msynth](https://github.com/mrphrazer/msynth)
 
 [qsynth](https://github.com/quarkslab/qsynthesis/)
+
+[Improving MBA Deobfuscation using Equality Saturation](https://secret.club/2022/08/08/eqsat-oracle-synthesis.html)
 
 
 # Deobfuscation: Virtualization-based Obfuscation
