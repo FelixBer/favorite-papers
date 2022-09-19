@@ -323,3 +323,7 @@ https://www.youtube.com/watch?v=GmIlLKT_nH8
 [Mapping information-rich genotype-phenotype landscapes with genome-scale Perturb-seq](https://www.cell.com/cell/fulltext/S0092-8674(22)00597-9)
 
 [Post-gastrulation synthetic embryos generated exutero from mouse naive ESC](https://www.cell.com/action/showPdf?pii=S0092-8674%2822%2900981-3)
+
+[Comparative genomics of mortal and immortal cnidarians unveils novel keys behind rejuvenation](https://www.pnas.org/doi/full/10.1073/pnas.2118763119)
+
+[Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.biorxiv.org/content/10.1101/622803v3.full.pdf)
