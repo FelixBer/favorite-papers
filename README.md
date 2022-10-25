@@ -83,6 +83,9 @@ A nonexhaustive list of my favorite papers, have fun!
 
 [Augmenting Decompiler Output with Learned Variable Names and Types](https://www.usenix.org/system/files/sec22-chen-qibin.pdf)
 
+[A Comb for Decompiled C Code](https://rev.ng/downloads/asiaccs-2020-paper.pdf)
+
+
 ## Links
 
 [Breaking Down Binary Ninjas Low Level IL](https://blog.trailofbits.com/2017/01/31/breaking-down-binary-ninjas-low-level-il/)
