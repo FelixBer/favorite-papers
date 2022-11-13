@@ -334,3 +334,5 @@ https://www.youtube.com/watch?v=GmIlLKT_nH8
 [Comparative genomics of mortal and immortal cnidarians unveils novel keys behind rejuvenation](https://www.pnas.org/doi/full/10.1073/pnas.2118763119)
 
 [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.biorxiv.org/content/10.1101/622803v3.full.pdf)
+
+[In vitro neurons learn and exhibit sentience when embodied in a simulated game-world](https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6)
