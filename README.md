@@ -152,11 +152,29 @@ https://www.youtube.com/watch?v=MRku-2fW42w
 
 [Efficient Deobfuscation of Linear Mixed Boolean-Arithmetic Expressions](https://arxiv.org/pdf/2209.06335.pdf)
 
+[Effectiveness of Synthesis](https://hal.inria.fr/hal-01241356/file/cosemain.pdf)
+
+[Stochastic Superoptimization](https://theory.stanford.edu/~aiken/publications/papers/asplos13.pdf)
+
+[NeuReduce: Reducing Mixed Boolean-Arithmetic Expressions by Recurrent Neural Network](https://aclanthology.org/2020.findings-emnlp.56/)
+
+[Software Obfuscation with Non-Linear Mixed Boolean-Arithmetic Expressions](https://par.nsf.gov/servlets/purl/10318183)
+
 ## links
 
 [msynth](https://github.com/mrphrazer/msynth)
 
 [qsynth](https://github.com/quarkslab/qsynthesis/)
+
+[softsec-unh MBA-Solver](https://github.com/softsec-unh/MBA-Solver)
+
+[sspam](https://github.com/quarkslab/sspam)
+
+[Arybo](https://github.com/quarkslab/arybo)
+
+[MBA-Obfuscator](https://github.com/nhpcc502/MBA-Obfuscator)
+
+[SiMBA](https://github.com/DenuvoSoftwareSolutions/SiMBA)
 
 [Improving MBA Deobfuscation using Equality Saturation](https://secret.club/2022/08/08/eqsat-oracle-synthesis.html)
 
@@ -164,6 +182,7 @@ https://www.youtube.com/watch?v=MRku-2fW42w
 # Deobfuscation: Virtualization-based Obfuscation
 
 [LOKI : Hardening Code Obfuscation Against Automated Attacks](https://arxiv.org/abs/2106.08913)
+[loki link](https://github.com/RUB-SysSec/loki)
 
 [Automatic Deobfuscation and Reverse Engineering of Obfuscated Code](https://repository.arizona.edu/bitstream/handle/10150/613135/azu_etd_14572_sip1_m.pdf?sequence=1)
 
