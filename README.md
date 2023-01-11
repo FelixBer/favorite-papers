@@ -336,3 +336,9 @@ https://www.youtube.com/watch?v=GmIlLKT_nH8
 [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.biorxiv.org/content/10.1101/622803v3.full.pdf)
 
 [In vitro neurons learn and exhibit sentience when embodied in a simulated game-world](https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6)
+
+[DNA Damage, DNA Repair, Aging, and Neurodegeneration](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4588127/pdf/cshperspectmed-AGE-a025130.pdf)
+
+[HCN2 Rescues brain defects by enforcing endogenous voltage pre-patterns](https://www.nature.com/articles/s41467-018-03334-5)
+
+[Bioelectric signaling: Reprogrammable circuits underlying embryogenesis, regeneration, and cancer](https://www.cell.com/cell/fulltext/S0092-8674(21)00223-3)
