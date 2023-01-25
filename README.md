@@ -178,6 +178,8 @@ https://www.youtube.com/watch?v=MRku-2fW42w
 
 [Improving MBA Deobfuscation using Equality Saturation](https://secret.club/2022/08/08/eqsat-oracle-synthesis.html)
 
+[!HexRays gooMBA](https://hex-rays.com/blog/deobfuscation-with-goomba/) [github](https://github.com/HexRaysSA/goomba)
+
 
 # Deobfuscation: Virtualization-based Obfuscation
 
