@@ -342,6 +342,8 @@ https://www.youtube.com/watch?v=GmIlLKT_nH8
 
 [In vitro neurons learn and exhibit sentience when embodied in a simulated game-world](https://www.biorxiv.org/content/10.1101/2021.12.02.471005v2.full.pdf)
 
+[Organoid intelligence (OI): the new frontier in biocomputing and intelligence-in-a-dish](https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2023.1017235)
+
 [Biofortified tomatoes provide a new route to vitamin D sufficiency](https://www.nature.com/articles/s41477-022-01154-6)
 
 [Diploid hepatocytes drive physiological liver renewal in adult humans](https://www.cell.com/cell-systems/fulltext/S2405-4712(22)00171-5)
